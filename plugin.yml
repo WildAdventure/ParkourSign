@@ -1,0 +1,8 @@
+name: ParkourSign
+main: com.gmail.filoghost.parkoursign.ParkourSign
+version: 1.0
+softdepend: [WildCommons]
+
+commands:
+   parkoursign:
+      description: Comando per il parkour.
